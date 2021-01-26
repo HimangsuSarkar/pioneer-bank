@@ -7,3 +7,21 @@ body {
   border-radius: 10px;
   box-shadow: 5px 5px 10px gray;
 }
+#transition-area {
+  display: none;
+}
+.status {
+  margin: 10px 20px;
+  padding: 20px;
+  color: white;
+  border-radius: 15px;
+}
+.deposit {
+  background-color: steelblue;
+}
+.withdraw {
+  background-color: lightsalmon;
+}
+.balance {
+  background-color: orange;
+}
